@@ -1,3 +1,4 @@
-FROM sonatype/nexus:oss
-EXPOSE 8081 8081
+#FROM sonatype/nexus:oss
+FROM centos
+#EXPOSE 8081 8081
 
