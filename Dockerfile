@@ -1,4 +1,4 @@
 #FROM sonatype/nexus:oss
-FROM centos
+FROM ubuntu
 #EXPOSE 8081 8081
 
